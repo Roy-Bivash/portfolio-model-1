@@ -1,0 +1,73 @@
+{
+    "nom": "ROY",
+    "prenom": "Bivash",
+    "favicon": "https://rbivash.com/img/logo.ico",
+    "mail":"contact@rbivash.com",
+    "github":"https://github.com/Roy-Bivash",
+    "linkedin":"https://www.linkedin.com",
+    "description": "Une infinité de possibilités dans un monde infini",
+    "a_propos": "Je suis passionné par la création de solutions informatiques innovantes et la résolution de problèmes à l'aide de la programmation.\n Mon parcours dans le domaine du développement a été jalonné d'expériences enrichissantes et de projets diversifiés, ce qui m'a permis d'acquérir une solide expertise technique et un sens aigu de l'efficacité.",
+    "Parcours":"J'ai commencé mon voyage en tant que développeur autodidacte, plongeant dans le monde de la programmation à un âge précoce. \nCela m'a incité à poursuivre des études formelles en informatique, où j'ai acquis des connaissances approfondies en algorithmique, en structures de données et en développement logiciel. \n\n Au fil des ans, j'ai eu la chance de travailler au sein d'équipes dynamiques dans diverses entreprises technologiques. Ces expériences m'ont permis de perfectionner mes compétences, d'apprendre à collaborer efficacement et de développer une approche méthodique envers le développement de logiciels.",
+    "competences": [
+        {
+            "nom": "HTML",
+            "img": "https://banner2.cleanpng.com/20190125/wpj/kisspng-computer-icons-html5-scalable-vector-graphics-port-socialpack-chocolate-icon-5c4b3bbcb7d671.680718971548434364753.jpg"
+        },
+        {
+            "nom": "CSS",
+            "img": "https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"
+        },
+        {
+            "nom":"JavaScript",
+            "img":"https://i0.wp.com/www.wushujia.fr/wp-content/uploads/2016/03/js-logo.png?fit=500%2C500&ssl=1"
+        },
+        {
+            "nom":".NET",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg"
+        },
+        {
+            "nom":"MySQL",
+            "img":"https://www.liveagent.com/app/uploads/2020/11/MySQL-Logo.png"
+        },
+        {
+            "nom":"PostgreSQL",
+            "img":"https://brandlogos.net/wp-content/uploads/2021/11/postgresql-logo.png"
+        },
+        {
+            "nom":"PHP",
+            "img":"https://cdn.icon-icons.com/icons2/2415/PNG/512/php_plain_logo_icon_146397.png"
+        },
+        {
+            "nom":"ReactJs",
+            "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png"
+        },
+        {
+            "nom":"TauriJS",
+            "img":"https://cdn.worldvectorlogo.com/logos/tauri-1.svg"
+        },
+        {
+            "nom":"Ionic",
+            "img":"https://www.ambient-it.net/wp-content/uploads/2016/07/Ionic-logo200.png"
+        },
+        {
+            "nom":"PixiJS",
+            "img":"https://pixijs.download/pixijs-logo-full-light.png"
+        },
+        {
+            "nom":"WordPress",
+            "img":"https://cdn-icons-png.flaticon.com/512/59/59137.png"
+        },
+        {
+            "nom":"java",
+            "img":"https://static.vecteezy.com/system/resources/previews/022/100/945/original/java-logo-transparent-free-png.png"
+        },
+        {
+            "nom":"C++",
+            "img":"https://e7.pngegg.com/pngimages/707/18/png-clipart-the-c-programming-language-c-for-beginners-masters-computer-programming-leave-the-material-blue-angle.png"
+        },
+        {
+            "nom":"Tailwind CSS",
+            "img":"https://yt3.googleusercontent.com/ikv41jMTr1uHGdILrJhvbfVJcDt4oqhwApKX37TjAleF_cRPbF2W-waj7uMnS5JySvnlvAlTCg=s900-c-k-c0x00ffffff-no-rj"
+        }
+    ]
+}

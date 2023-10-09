@@ -1,0 +1,25 @@
+{
+    "description":"Mon parcours académique et professionnel est une aventure passionnante dans le monde de l'informatique. Il débute en 2019 avec l'obtention de mon BAC STI2D, marquant le point de départ de ma quête de connaissances et de compétences dans le domaine de la technologie.\n\nEn 2022, j'ai obtenu un BTS SIO (Services Informatiques aux Organisations), qui a renforcé ma compréhension des systèmes d'information et de développement logiciel.\n\nL'année 2022 a été marquée par le début de mon expérience professionnelle en tant qu'alternant en développement au sein d'une entreprise, une opportunité qui m'a permis d'acquérir une expérience concrète dans le monde professionnel.\n\nMon parcours se poursuit de manière épique, car de 2023 à 2026, je suis actuellement en alternance en tant que développeur, non pas sur Terre, mais sur la Station Spatiale Internationale (ISS). Mon objectif est de contribuer au progrès technologique dans un environnement unique, en préparation de l'obtention de mon diplôme d'ingénieur informatique en 2026.\n\nChaque étape de mon parcours a été marquée par un engagement constant envers l'apprentissage et le développement, et je suis impatient de voir ce que l'avenir réserve à un ingénieur informatique diplômé en devenir.",
+    "parcours":[
+        {
+            "date":"2019",
+            "text": "Diplomée BAC STI2D"
+        },
+        {
+            "date":"2022",
+            "text": "Diplomée d'un BTS SIO"
+        },
+        {
+            "date":"2022 à 2023",
+            "text": "Alternant en tant que developpeur dans une entreprise sur Mars"
+        },
+        {
+            "date":"2023 à 2026",
+            "text": "Alternant en tant que developpeur dans une entreprise sur l'ISS en preparation d'un diplôme d'ingenieur"
+        },
+        {
+            "date":"2026",
+            "text": "Diplomée en tant qu'Ingenieur informatique"
+        }
+    ]
+}

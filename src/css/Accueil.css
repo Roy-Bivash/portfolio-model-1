@@ -1,0 +1,17 @@
+/* .BgImage{
+    height: 80vh;
+    clip-path: polygon(0% 0%, 0% 100%, 10% 100%, 10% 0%, 90% 0%, 90% 90%, 10% 90%, 10% 100%, 100% 100%, 100% 0%);
+} */
+
+#contactBtnLogo{
+    /* display: none; */
+    /* opacity: 0; */
+    width: 0;
+    transition: ease-in 0.1s;
+}
+
+#contactBtn:hover #contactBtnLogo{
+    /* display: block; */
+    /* opacity: 1; */
+    width: 18px;
+}
