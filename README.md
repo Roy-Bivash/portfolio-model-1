@@ -14,6 +14,12 @@ De plus, le formulaire de contact est directement connecté à Google Form, rend
 
 
 ## Lancer le projet :
+- Cloner le projet :
+``` bash
+git clone https://github.com/Roy-Bivash/portfolio-model-1.git
+cd portfolio-model-1
+```
+
 - Installation des paquets node :
 ``` bash
 npm install
