@@ -1,9 +1,9 @@
 # Model de Portfolio : Un portfolio simple et efficace à la porté de tous le monde
 
 ## Description
-Cet élégant portfolio convivial est à la portée de tous, même sans connaissance en programmation.  
-Développé en ReactJS et utilise le Tailwind CSS pour simplifier le design et la mise en forme, il ne requiert aucune compétence en codage pour une utilisation optimale. Toutes les données sont stockées dans des fichiers JSON, facilitant ainsi les mises à jour du contenu.  
-De plus, le formulaire de contact est directement connecté à Google Form, rendant son utilisation accessible à tous, quel que soit leur niveau de compétence en informatique.
+Cet élégant portfolio est à la portée de tous, même sans connaissance en programmation.  
+Il est développé avec Vite.js en utilisant un template React pour simplifier la mise en place. Le design est optimisé grâce à Tailwind CSS. Aucune compétence en codage n'est nécessaire pour une utilisation optimale. Toutes les données sont stockées dans des fichiers JSON, facilitant ainsi les mises à jour du contenu.  
+ De plus, le formulaire de contact est directement connecté à Google Form, rendant son utilisation accessible à tous, quel que soit leur niveau de compétence en informatique.
 
 
 
