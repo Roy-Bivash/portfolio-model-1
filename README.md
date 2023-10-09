@@ -28,7 +28,7 @@ npm install
 ``` bash
 npm run dev
 ```
-- Ouvrir `http://127.0.0.1:5173/` sur votre navigateur preferé
+- Ouvrir `http://127.0.0.1:5173/` sur votre navigateur préféré
 
 
 ## Configuration et Personnalisation :
