@@ -33,8 +33,8 @@ npm run dev
 
 ## Configuration et Personnalisation :
 
-Pour la configuration et la personnalisation du Portfolio il n'est pas necesasire de savoir coder.
-Toutes modifications et personnalisation se ferons depuis un dossier uniquement : `./src/data/`
+Pour la configuration et la personnalisation du Portfolio il n'est pas nécessaire de savoir coder.
+Toutes modifications et personnalisation se feront depuis un dossier uniquement : `./src/data/`
 
 > #### Important : Toutes les images (png, jpg, ico ...) doivent être heberger et accécible sous forme de lien.
 
@@ -52,7 +52,7 @@ Toutes modifications et personnalisation se ferons depuis un dossier uniquement 
     ```
 
 - #### Fichier `parcours.json` :
-    * Mettre a la suite votre parcours, elles seront affiché à la suite sans être trier
+    * Mettre a la suite votre parcours, elles seront affichées à la suite sans être triées  
     * Les parcours sont sous le format suivant (Vous pouvez en créer autant que nécessaire) : 
     ``` json
     {
@@ -62,7 +62,7 @@ Toutes modifications et personnalisation se ferons depuis un dossier uniquement 
     ```
 
 - #### Fichier `projects.json` :
-    * Mettre a la suite vos projets, elles seront affiché à la suite sans être trier
+    * Mettre a la suite vos projets, elles seront affichées à la suite sans être triées  
     * Les projets sont sous le format suivant (Vous pouvez en créer autant que nécessaire) : 
     ``` json
     {
@@ -77,7 +77,7 @@ Toutes modifications et personnalisation se ferons depuis un dossier uniquement 
     ```
 
 - #### Fichier `googleForm.json` :
-    A. Créez un Google Form avec les specificity suivant :  
+    A. Créez un Google Form avec les spécifications suivant :  
     *  Titre : `Nom Prenom` - Option : `Réponse courte`
     *  Titre : `Contact` - Option : `Réponse courte`
     *  Titre : `Message` - Option : `Paragraphe`
